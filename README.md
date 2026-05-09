@@ -7,4 +7,5 @@ lookerstudio :  Product Inventory Watchlist | Custom Ecommerce Reports, Looker S
 - Create & customize report
 - Create interactive filter for report
 
-## 
+## Explore and Create Reports with Looker Studio 
+
